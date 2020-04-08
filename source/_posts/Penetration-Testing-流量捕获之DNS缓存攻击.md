@@ -5,7 +5,7 @@ tags: [Penetration Testing,Kali Linux,Python]
 ---
 
 
-## intro
+### intro
 ```python
 # author: huangyuhui
 # date: november 27,2019
@@ -76,6 +76,16 @@ the ip address between the target and the gateway is unordered
 >>> nslookup www.sitename.com
 '''
 ```
+
+
+### moments
+*a simple dns spoofing with phishing~*
+
+![ ](Penetration-Testing-流量捕获之DNS缓存攻击/penetration-testing_moments_dns-spoofing-with-phishing.png)
+
+*😅 a simple penetration testing in library which is so embarrassing . . .*
+
+![ ](Penetration-Testing-流量捕获之DNS缓存攻击/penetration-testing_moments_dns-spoofing-in-library.png)
 
 
 ### recommended tools
